@@ -28,4 +28,4 @@ Start-AI 项目旨在提供一个 **从零基础到进阶** 学习人工智能�
 
 ## 交流讨论群
 
-![group_qrcode.png](https://pinshiv1.oss-cn-hangzhou.aliyuncs.com/ai/qr.png?OSSAccessKeyId=LTAIOXWViPGj9w5n&Expires=10000000001587698000&Signature=7xL1gLgVp5%2B7%2FkHfNv%2Bx%2Fs3pNtw%3D)
+![group_qrcode.png](https://pinshiv1.oss-cn-hangzhou.aliyuncs.com/ai/qr.png)
